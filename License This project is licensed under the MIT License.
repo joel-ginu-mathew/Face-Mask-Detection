@@ -1,0 +1,13 @@
+
+---
+
+### 📄 2. requirements.txt
+
+```txt
+numpy
+pandas
+matplotlib
+opencv-python
+Pillow
+scikit-learn
+tensorflow
